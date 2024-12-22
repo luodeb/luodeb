@@ -75,7 +75,7 @@
 
 - 💬 微信公众号：海角36号
 - 📱 微信：********
-- 🐦 博客：[@今天是晴天](https://www.luodeb.top)
+- 🐦 博客：[今天是晴天](https://www.luodeb.top)
 - 📫 邮箱：luodeb@outlook.com
 
 ## 📈 贡献时间线 | Contribution Timeline
