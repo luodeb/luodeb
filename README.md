@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🌟 Hello Debin!
-### A Code Farmer of China.
+### A Code Farmer.
 
 ![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
 ![](https://img.shields.io/badge/Focus-Operating_System-FFCC33)
