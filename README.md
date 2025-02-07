@@ -20,11 +20,9 @@
 
 </div>
 
-## 🎯 关于我 | About Me 
+## 🎯 About Me 
 
-> "今天是晴天 | Sunny Today"
-
-## 🎯 About Me
+> "Sunny Today"
 
 - 🔭 **Areas of Interest**: Particularly interested in technology and programming, especially the latest developments in artificial intelligence and machine learning.
 - 🚀 **Learning Approach**: Enjoy learning new knowledge through hands-on practice, such as participating in open-source projects or conducting small experiments on my own.
@@ -32,9 +30,9 @@
 - 👯 **Collaboration and Communication**: Willing to collaborate with friends who share common interests, discussing problems and sharing experiences, especially actively participating in discussions within the tech community.
 - 🎯 **Challenges and Resource Needs**: Hope to find high-quality learning resources, such as book recommendations and online courses, to help me overcome these challenges.
 
-## 💻 技术栈 | Tech Stack
+## 💻 Tech Stack
 
-### 🤖 AI & 机器学习
+### 🤖 AI 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -42,45 +40,45 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 💻 OS & 硬件开发
+### 💻 OS 
 ![Rust](https://img.shields.io/badge/Rust-CE4A39?style=for-the-badge&logo=rust&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-024583?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Arm](https://img.shields.io/badge/ARM-4191BA?style=for-the-badge&logo=arm&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISCV-2E3470?style=for-the-badge&logo=arm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-F6BD04?style=for-the-badge&logo=linux&logoColor=white)
 
-### 🎨 Web 开发
+### 🎨 Web 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ 开发工具
+### 🛠️ Toolkits
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🚀 重点项目 | Featured Projects
+## 🚀 Featured Projects
 
-### 🎯 AI 应用
+### 🎯 AI 
 
-## 📊 GitHub 统计 | Statistics
+## 📊 GitHub | Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luodeb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luodeb&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-## 🌐 社交媒体 | Social Media
+## 🌐 Social Media
 
-- 💬 微信公众号：海角36号
-- 📱 微信：********
-- 🐦 博客：[今天是晴天](https://www.luodeb.top)
-- 📫 邮箱：luodeb@outlook.com
+- 💬 **WeChat Official Account**: 海角36号
+- 📱 **WeChat**: ********
+- 🐦 **Blog**: [Sunny Today](https://www.luodeb.top)
+- 📫 **Email**: luodeb@outlook.com
 
-## 📈 贡献时间线 | Contribution Timeline
+## 📈 Contribution Timeline
 ![](https://github-readme-activity-graph.vercel.app/graph?username=luodeb&theme=dracula)
 
 ---
