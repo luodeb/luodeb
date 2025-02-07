@@ -22,13 +22,15 @@
 
 ## 🎯 关于我 | About Me 
 
-> "今天是晴天"
+> "今天是晴天 | Sunny Today"
 
-- 🔭 
-- 🚀 像机器一样学习。
-- 🌱 
-- 👯 
-- 🎯 
+## 🎯 About Me
+
+- 🔭 **Areas of Interest**: Particularly interested in technology and programming, especially the latest developments in artificial intelligence and machine learning.
+- 🚀 **Learning Approach**: Enjoy learning new knowledge through hands-on practice, such as participating in open-source projects or conducting small experiments on my own.
+- 🌱 **Goals**: Become an expert in technology and contribute to solving complex problems.
+- 👯 **Collaboration and Communication**: Willing to collaborate with friends who share common interests, discussing problems and sharing experiences, especially actively participating in discussions within the tech community.
+- 🎯 **Challenges and Resource Needs**: Hope to find high-quality learning resources, such as book recommendations and online courses, to help me overcome these challenges.
 
 ## 💻 技术栈 | Tech Stack
 
